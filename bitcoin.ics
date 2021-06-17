@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bitcoin Calendar - Curated by Exonumia
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Calendar with Bitcoin memorable days
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:7i4sr50aracgunjf2bstm3uv2e@exonumia.cc
+CREATED:20210616T232422Z
+DESCRIPTION:
+LAST-MODIFIED:20210617T115524Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Lightning Whitepaper Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210818
+DTEND;VALUE=DATE:20210819
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:38r43i9ij57u0qo0cqg3grkn7i@exonumia.cc
+CREATED:20210616T231804Z
+DESCRIPTION:On this day the <a href="http://bitcoin.org">bitcoin.org</a> do
+ main was registered. 2 months ahead of the Bitcoin white paper being releas
+ ed.<br><br><a href="https://rdap.publicinterestregistry.net/rdap/org/domain
+ /bitcoin.org">https://rdap.publicinterestregistry.net/rdap/org/domain/bitco
+ in.org</a>
+LAST-MODIFIED:20210617T152835Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:bitcoin.org registration day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220103
+DTEND;VALUE=DATE:20220104
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:23iqd5fhoj5lghht7f7sra8r6v@exonumia.cc
+CREATED:20210616T231853Z
+DESCRIPTION:<span>The Times 03/Jan/2009 Chancellor on brink of second bailo
+ ut for banks.<br><br><span>000000000019d6689c085ae165831e934ff763ae46a2a6c1
+ 72b3f1b60a8ce26f</span></span>
+LAST-MODIFIED:20210617T153213Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Genesis Block Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210522
+DTEND;VALUE=DATE:20210523
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:37lc18mrhs44sji5flrercop0t@exonumia.cc
+CREATED:20210616T231643Z
+DESCRIPTION:On this day Laszlo Hanyec spent 10 000 BTC to buy 2 pizzas from
+  a Papa Johns.<br><br><a href="https://bitcointalk.org/index.php?topic=137.
+ 0" id="ow7679" __is_owner="true">https://bitcointalk.org/index.php?topic=13
+ 7.0</a><br><br>a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5
+ d48d
+LAST-MODIFIED:20210617T154715Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bitcoin Pizza Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210111
+DTEND;VALUE=DATE:20210112
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:04nqp45pvj4fn5mlb8pscim6tn@exonumia.cc
+CREATED:20210617T115913Z
+DESCRIPTION:On this day in 2009 Hal Finney sent one of the most foundationa
+ l tweets about Bitcoin.\n\nhttps://twitter.com/halfin/status/1110302988
+LAST-MODIFIED:20210617T154855Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Running Bitcoin Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211101
+DTEND;VALUE=DATE:20211102
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:20ufk65pjpld0ako3p2dvkhsr5@exonumia.cc
+CREATED:20210617T120135Z
+DESCRIPTION:On this day in 2010 bitboy shared what would become the communi
+ ty adopted logo of Bitcoin.<br><a href="https://bitcointalk.org/index.php?t
+ opic=1631.0" id="ow8305" __is_owner="true"><br>https://bitcointalk.org/inde
+ x.php?topic=1631.0</a>
+LAST-MODIFIED:20210617T154930Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Orange Bitcoin Logo Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211218
+DTEND;VALUE=DATE:20211219
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:3ecthf3tj2ckkrqupmkdtqlmhv@exonumia.cc
+CREATED:20210616T232555Z
+DESCRIPTION:On this day in 2013 <b><a href="https://bitcointalk.org/index.p
+ hp?action=profile\;u=26945">GameKyuubi</a> </b>published the aptly titled&n
+ bsp\; I AM HODLING on <a href="http://bitcointalk.org">bitcointalk.org</a>.
+  And hence the art of HODL was born.<br><br><br><a href="https://bitcointal
+ k.org/index.php?topic=375643.0" id="ow8504" __is_owner="true">https://bitco
+ intalk.org/index.php?topic=375643.0</a>
+LAST-MODIFIED:20210617T154953Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:HODL Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220112
+DTEND;VALUE=DATE:20220113
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:7uqr8ri6i4ig2hc7gfhnmmmb6c@exonumia.cc
+CREATED:20210616T232112Z
+DESCRIPTION:On this day in 2009 Hal Finney received the first transaction e
+ ver sent from Satoshi Nakamoto.\n\nf4184fc596403b9d638783cf57adfe4c75c605f6
+ 356fbc91338530e9831e9e16
+LAST-MODIFIED:20210617T155012Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:First Sent Bitcoin Transaction Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210216
+DTEND;VALUE=DATE:20210217
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:685dv5ad2vdi4tme4kidbrpuea@exonumia.cc
+CREATED:20210617T120658Z
+DESCRIPTION:On this  day the Meme Factory(tm) produced one of the most vira
+ l memes in Bitcoin social media history.<br><br><a href="https://bitcoinmag
+ azine.com/culture/bitcoin-laser-eyes-origins">https://bitcoinmagazine.com/c
+ ulture/bitcoin-laser-eyes-origins</a>
+LAST-MODIFIED:20210617T155554Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Laser Eyes Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210426
+DTEND;VALUE=DATE:20210427
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:2ni8socd7j5b1b5vkv503gmag3@exonumia.cc
+CREATED:20210616T233049Z
+DESCRIPTION:On this day in 2011 Satoshi Nakamota sent what is now regarded 
+ his last message to the public Bitcoin community stating he will "moved on 
+ to other things". Effectively making Bitcoin and it's growth a project <b>i
+ ndependent of it's creator</b>.
+LAST-MODIFIED:20210617T160711Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Satoshi Nakamoto Independence Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210608
+DTEND;VALUE=DATE:20210609
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:701vga4gl3qeabvfuiaq690ebf@exonumia.cc
+CREATED:20210616T223835Z
+DESCRIPTION:On this day in 2021 The Bitcoin Law making Bitcoin legal tender
+  in El Salvador was passed.<br><br><a href="https://twitter.com/nayibbukele
+ /status/1402446890466217985" id="ow9725" __is_owner="true">https://twitter.
+ com/nayibbukele/status/1402446890466217985</a>
+LAST-MODIFIED:20210617T160928Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:El Dia Del Salvador
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210818
+DTEND;VALUE=DATE:20210819
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:0ol1f7gr7epm8kub923ep40ei4@exonumia.cc
+CREATED:20210617T120451Z
+DESCRIPTION:On this day in 2017 the Twitter user <a href="https://twitter.c
+ om/NicolasDorier" id="ow9954" __is_owner="true"><span><span>Nicolas Dorier<
+ /span></span></a> published the tweet that would result in the BTCPayserver
+  project being created.<br><br><br><a href="https://twitter.com/NicolasDori
+ er/status/898378514256207872" id="ow9943" __is_owner="true"><br>https://twi
+ tter.com/NicolasDorier/status/898378514256207872</a>
+LAST-MODIFIED:20210617T161120Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:I will make you obsolete
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211031
+DTEND;VALUE=DATE:20211101
+RRULE:FREQ=YEARLY
+DTSTAMP:20210617T161558Z
+UID:553usm739qe5svoj45ftbljmns@exonumia.cc
+CREATED:20210616T231741Z
+DESCRIPTION:On this day in 2008 Satoshi Nakamoto published the Bitcoin Whit
+ epaper to the cryptography mailing list.\n\nhttps://www.mail-archive.com/cr
+ yptography@metzdowd.com/msg09959.html
+LAST-MODIFIED:20210617T161327Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bitcoin Whitepaper Day
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
